@@ -20,13 +20,14 @@
   
 ## CODE
 ```
-  <html>
+
+<html>
       <head>
            <title> Saveetha Engineering College</title>
       </head>
       <body bgcolor="cyan" text="black">
-   <h1 style="text-align:center;">Saveetha Engineering College</h1> 
-     <hr width="px;" color="red">
+   <h1 align:"center">Saveetha Engineering College</h1> 
+     <hr size="8" color="red">
    <ol type="A">
      <li>Agricultural Engineering</li>
      <li>Computer Science And Engineering</li>
@@ -44,12 +45,10 @@
 </body>
 </html>
 
-
 ```
 
 ## OUTPUT
-![2023-03-29](https://user-images.githubusercontent.com/128288529/229022909-7d1d1e21-4620-429e-a783-1050d4450a3a.png)
-
+ ![2023-04-02](https://user-images.githubusercontent.com/128288529/229363951-bcca0b08-4c04-4580-ba28-66a0a9d33d5f.png)
 
 
 
